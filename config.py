@@ -18,7 +18,7 @@ OWNER_USERNAME = getenv("OWNER_USERNAME","iam_venom")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME" , "RoyalBot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "Royal ")
+BOT_NAME = getenv("BOT_NAME" , "Royal")
 # ---------------------------------------------------------
 ASSUSERNAME = getenv("ASSUSERNAME" , "MrRoyal")
 # ---------------------------------------------------------
